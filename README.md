@@ -1,4 +1,4 @@
-[![Social banner for polakuma](https://github.com/PolaKuma/PolaKuma/raw/main/banner.png)](https://polabread.icu/)
+[![Social banner for polakuma](https://github.com/PolaKuma/PolaKuma/raw/main/banner1.png)](https://polabread.icu/)
 <h1 align='center'> Hi! :wave:</h1>
 <p align='center'>
 I'm Junjie.
