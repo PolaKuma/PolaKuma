@@ -21,16 +21,12 @@ Currently exploring the intersection of **NLP** and **Bioinformatics**:
 * **LLM Reasoning / Mathematical Reasoning**
 * **Interdisciplinary Frontiers in Medical Informatics**
 
-</td>
 <td width="40%" style="border: none; vertical-align: bottom; text-align: right;">
-
-<img src="oc.png" width="260" style="border-radius: 25px; box-shadow: 10px 10px 20px rgba(0,0,0,0.2);" />
-
-<br>
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=4285F4&center=true&vCenter=true&width=260&lines=Hi+there!+;Nice+to+meet+you!+;Let's+build+AI+together!" alt="Typing SVG" />
-
+  <img src="https://cdn.jsdelivr.net/gh/PolaKuma/PolaKuma@main/oc.png" width="260" style="border-radius: 25px; box-shadow: 10px 10px 20px rgba(0,0,0,0.2); margin-bottom: 30px;" />
+  <br>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=4285F4&center=true&vCenter=true&width=380&lines=Hi+there!+;Nice+to+meet+you!+;Let's+build+AI+together!" width="380" />
 </td>
+
 </tr>
 </table>
 
