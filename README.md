@@ -43,5 +43,3 @@ Currently exploring the intersection of **NLP** and **Bioinformatics**:
 <img src="https://img.shields.io/badge/LLM_Reasoning-FFD700?style=flat-square&logo=openai&logoColor=black" />
 <img src="https://img.shields.io/badge/Bioinformatics-4CAF50?style=flat-square&logo=dna&logoColor=white" />
 </p>
-
-![Junjie's GitHub stats](https://github-readme-stats.vercel.app/api?username=PolaKuma&show_icons=true&theme=radical&rank_icon=github)
